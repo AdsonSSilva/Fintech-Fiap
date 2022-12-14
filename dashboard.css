@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+h1{
+    font-size: x-large;
+    font-weight: bold; 
+    font-style: italic;
+    text-align: center;
+    display: block;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-size: x-large;
+    font-weight: bold; 
+    font-style: italic;
+    text-align: center;
+    display: block;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+
+img {
+    width: 50px;
+    height: 50px;
+    align-items: left;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+a{
+    margin-left: 20px;
+}
+
+#lista{
+    background-color: rgb(221, 221, 221);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 8%;
+}

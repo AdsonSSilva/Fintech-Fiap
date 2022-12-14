@@ -1,0 +1,62 @@
+h1{
+    font-weight: bold; 
+    font-style: italic;
+    text-align: center;
+    display: block;
+    color: #ff3737;
+}
+
+img {
+    width: 10%;
+    margin: auto;
+    margin-top: 30px;
+    display: block;
+  }
+
+body{
+    background-color: rgb(160, 160, 160);
+}
+
+form{
+    width: 35vw;
+    height: 60vh;
+    display: block;
+    flex-direction: row;
+    justify-content: center;            
+    align-items: center;
+    margin:auto;
+}
+
+.button{
+    display: inline-block;
+}
+
+#entrar{
+    margin-top: 15px;
+}
+
+#cadastrar{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+#criar_cadastro{
+    margin-top: 15px;
+}
+
+form.h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#confirmar_alterações{
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}
+
+#voltar_dashboard{
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
